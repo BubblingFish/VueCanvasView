@@ -1,2 +1,2 @@
-# VueComponents
-封装的自己的组件库
+# VueCanvasView
+封装一个Vue环境下的Canvas组件
