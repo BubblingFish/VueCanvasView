@@ -1,2 +1,2 @@
-# VueCanvasView
-封装一个Vue环境下的Canvas组件
+# VueComponents
+封装的Vue组件
